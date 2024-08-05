@@ -1,0 +1,37 @@
+_repo: The-call-of-the-night-rider-b-A-story-of-the-days-of-William-Tyndale_74038
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Campbell, J. F. (John F.)
+    alias: Campbell, John F.
+    birthdate: 1885
+    deathdate: 1966
+    gutenberg_agent_id: '57318'
+    url: http://www.gutenberg.org/2009/agents/57318
+creator:
+  author:
+    agent_name: Lee, Albert
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '57317'
+    url: http://www.gutenberg.org/2009/agents/57317
+description: ''
+gutenberg_issued: '2024-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74038'
+language: en
+pgterms:marc905: 20240626170059lee
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bMorgan & Scott, Ltd., $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformation -- Fiction'
+- !lcsh 'Tyndale, William, -1536 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The call of the night rider : $b A story of the days of William Tyndale'
+url: http://www.gutenberg.org/ebooks/74038
