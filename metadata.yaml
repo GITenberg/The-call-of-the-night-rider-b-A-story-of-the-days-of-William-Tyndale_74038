@@ -8,6 +8,9 @@ contributor:
     deathdate: 1966
     gutenberg_agent_id: '57318'
     url: http://www.gutenberg.org/2009/agents/57318
+covers:
+- cover_type: archival
+  image_path: 74038-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Lee, Albert
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '57317'
     url: http://www.gutenberg.org/2009/agents/57317
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74038#The-call-of-the-night-rider-b-A-story-of-the-days-of-William-Tyndale
 gutenberg_issued: '2024-07-13'
 gutenberg_type: Text
 identifiers:
